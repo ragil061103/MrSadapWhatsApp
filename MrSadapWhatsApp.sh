@@ -163,6 +163,8 @@ then
 echo  $red "Bye Bye Sayang"
 echo  $blue "Jangan Lupa Harus Save Nomor WA saya!"
 echo  $green "SHUTDOWN INDO TEAM!"
-exit
-fi
-
+exit 
+pkg update
+pkg update
+pkg install git
+pkg install lolcat
